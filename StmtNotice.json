@@ -1,5 +1,5 @@
 {
-    "count": 102,
+    "count": 118,
     "value": [
         {
             "CustomerID": "ABB02",
@@ -57,6 +57,17 @@
             "SuspendNote": ""
         },
         {
+            "CustomerID": "ALS01",
+            "CompanyName": "ALSTON INC.",
+            "Contact": "SHERRY ZHOU",
+            "DepositDue": 0,
+            "BalanceDue": 0,
+            "TotalDue": 0,
+            "TotalBalance": -28.33,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
             "CustomerID": "ANHF1",
             "CompanyName": "Andrew's Home Furniture",
             "Contact": "Andrew",
@@ -64,6 +75,17 @@
             "BalanceDue": 0,
             "TotalDue": 12.73,
             "TotalBalance": 2025.45,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
+            "CustomerID": "APL01",
+            "CompanyName": "A PLUS DRAPES & BLINDS",
+            "Contact": "SALVADOR RIVAS",
+            "DepositDue": 0,
+            "BalanceDue": 0,
+            "TotalDue": 0,
+            "TotalBalance": -10,
             "Suspend": "N",
             "SuspendNote": ""
         },
@@ -145,6 +167,17 @@
             "SuspendNote": ""
         },
         {
+            "CustomerID": "BDDTU",
+            "CompanyName": "B.D.D. Inc.",
+            "Contact": "THOMAS MILLER",
+            "DepositDue": 0,
+            "BalanceDue": 0,
+            "TotalDue": 0,
+            "TotalBalance": -17.68,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
             "CustomerID": "BDI01",
             "CompanyName": "BDIY BLINDS",
             "Contact": "DOUG BADER",
@@ -187,6 +220,17 @@
             "TotalBalance": 6654.57,
             "Suspend": "N",
             "SuspendNote": "Collect all past due before release"
+        },
+        {
+            "CustomerID": "BLI08",
+            "CompanyName": "BLINDS AND SHADE STORE",
+            "Contact": "STEVEN LEE",
+            "DepositDue": 0,
+            "BalanceDue": -203.57,
+            "TotalDue": -203.57,
+            "TotalBalance": -245.08,
+            "Suspend": "N",
+            "SuspendNote": ""
         },
         {
             "CustomerID": "BLICO",
@@ -321,6 +365,17 @@
             "SuspendNote": ""
         },
         {
+            "CustomerID": "DND01",
+            "CompanyName": "D&D INTERIORS",
+            "Contact": "DIANE WATSON",
+            "DepositDue": 0,
+            "BalanceDue": 0,
+            "TotalDue": 0,
+            "TotalBalance": -0.01,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
             "CustomerID": "EBM01",
             "CompanyName": "Elite Building Materials",
             "Contact": "Lacey",
@@ -387,6 +442,17 @@
             "SuspendNote": "collect PD payment before release (Ray)"
         },
         {
+            "CustomerID": "HAL01",
+            "CompanyName": "Hal Katsumoto",
+            "Contact": "Hal",
+            "DepositDue": 0,
+            "BalanceDue": 0,
+            "TotalDue": 0,
+            "TotalBalance": -0.01,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
             "CustomerID": "HAR01",
             "CompanyName": "HARMONY BLINDS AND SHUTTERS INC.",
             "Contact": "WAYNE GRAY",
@@ -442,6 +508,28 @@
             "SuspendNote": ""
         },
         {
+            "CustomerID": "INT01",
+            "CompanyName": "INTERIOR VISIONS",
+            "Contact": "BRYANNA GASS",
+            "DepositDue": 0,
+            "BalanceDue": -51.06,
+            "TotalDue": -51.06,
+            "TotalBalance": -91.06,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
+            "CustomerID": "JLG01",
+            "CompanyName": "J L G CONSTRUCTION",
+            "Contact": "CYNTHIA BEJAR",
+            "DepositDue": 0,
+            "BalanceDue": 0,
+            "TotalDue": 0,
+            "TotalBalance": -0.03,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
             "CustomerID": "JMR01",
             "CompanyName": "THE JMR BLIND CO.",
             "Contact": "JUAN REYES",
@@ -451,6 +539,17 @@
             "TotalBalance": 499.58,
             "Suspend": "Y",
             "SuspendNote": "collect PD payment before release "
+        },
+        {
+            "CustomerID": "KBW01",
+            "CompanyName": "KB WINDOW & INTERRIOR",
+            "Contact": "JEFF CHIA",
+            "DepositDue": 0,
+            "BalanceDue": 0,
+            "TotalDue": 0,
+            "TotalBalance": -0.22,
+            "Suspend": "N",
+            "SuspendNote": ""
         },
         {
             "CustomerID": "LAB01",
@@ -493,6 +592,17 @@
             "BalanceDue": 0,
             "TotalDue": 0,
             "TotalBalance": 239.4,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
+            "CustomerID": "LNK01",
+            "CompanyName": "LNK Window Fashion Inc",
+            "Contact": "Nick",
+            "DepositDue": 0,
+            "BalanceDue": 0,
+            "TotalDue": 0,
+            "TotalBalance": -0.01,
             "Suspend": "N",
             "SuspendNote": ""
         },
@@ -548,6 +658,17 @@
             "BalanceDue": 0,
             "TotalDue": 0,
             "TotalBalance": 700,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
+            "CustomerID": "NEW01",
+            "CompanyName": "NEW HOME (NEW01)",
+            "Contact": "MILLIE YU",
+            "DepositDue": 0,
+            "BalanceDue": 0,
+            "TotalDue": 0,
+            "TotalBalance": -0.01,
             "Suspend": "N",
             "SuspendNote": ""
         },
@@ -838,6 +959,17 @@
             "SuspendNote": ""
         },
         {
+            "CustomerID": "SBRTX2",
+            "CompanyName": "SUNBURST SHUTTERS TEXAS, LLC - HOUSTON",
+            "Contact": "Cory Cryer",
+            "DepositDue": 0,
+            "BalanceDue": -36.19,
+            "TotalDue": -36.19,
+            "TotalBalance": -36.19,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
             "CustomerID": "SBRTX3",
             "CompanyName": "SUNBURST SHUTTERS TEXAS, LLC - SAN ANTONIO",
             "Contact": "Tyler Jorgensen",
@@ -959,6 +1091,17 @@
             "SuspendNote": ""
         },
         {
+            "CustomerID": "SUR01",
+            "CompanyName": "SURFACE TILE & CARPET",
+            "Contact": "RODGER/CHRISTY",
+            "DepositDue": 0,
+            "BalanceDue": 0,
+            "TotalDue": 0,
+            "TotalBalance": -22.85,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
             "CustomerID": "TCBC1",
             "CompanyName": "The California Blind Company",
             "Contact": "Kathryn Boulanger",
@@ -999,6 +1142,17 @@
             "BalanceDue": 72094.33,
             "TotalDue": 72172.24,
             "TotalBalance": 155367.63,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
+            "CustomerID": "TRC01",
+            "CompanyName": "The Rose Collection",
+            "Contact": "Carleen Clarke",
+            "DepositDue": 0,
+            "BalanceDue": -161.37,
+            "TotalDue": -161.37,
+            "TotalBalance": -161.37,
             "Suspend": "N",
             "SuspendNote": ""
         },
@@ -1058,6 +1212,17 @@
             "SuspendNote": ""
         },
         {
+            "CustomerID": "UST01",
+            "CompanyName": "U S TECHNOLOGY",
+            "Contact": "SYED M. AHMED",
+            "DepositDue": 0,
+            "BalanceDue": 0,
+            "TotalDue": 0,
+            "TotalBalance": -1,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
             "CustomerID": "VAN01",
             "CompanyName": "VAN GO BLINDS - ORANGE COUNTY",
             "Contact": "JIM HETTINGA",
@@ -1089,6 +1254,17 @@
             "TotalBalance": 1823.88,
             "Suspend": "N",
             "SuspendNote": ""
+        },
+        {
+            "CustomerID": "VIN01",
+            "CompanyName": "VINEYARD BLIND & SHUTTER INC.",
+            "Contact": "ANTOINETTE ",
+            "DepositDue": 0,
+            "BalanceDue": -42.29,
+            "TotalDue": -42.29,
+            "TotalBalance": -43.96,
+            "Suspend": "Y",
+            "SuspendNote": "Collect payment before release"
         },
         {
             "CustomerID": "VIV01",
