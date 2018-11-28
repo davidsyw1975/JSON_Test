@@ -1,5 +1,5 @@
 {
-    "count": 118,
+    "count": 121,
     "value": [
         {
             "CustomerID": "ABB02",
@@ -42,7 +42,7 @@
             "BalanceDue": 336.09,
             "TotalDue": 336.09,
             "TotalBalance": 336.09,
-            "Suspend": "N",
+            "Suspend": "Y",
             "SuspendNote": "collect past due invoices before release"
         },
         {
@@ -53,8 +53,8 @@
             "BalanceDue": 3893.17,
             "TotalDue": 3999.8,
             "TotalBalance": 4106.42,
-            "Suspend": "N",
-            "SuspendNote": ""
+            "Suspend": "Y",
+            "SuspendNote": "collect past due invoices before release"
         },
         {
             "CustomerID": "ALS01",
@@ -109,7 +109,7 @@
             "TotalDue": 0,
             "TotalBalance": 3757.34,
             "Suspend": "N",
-            "SuspendNote": ""
+            "SuspendNote": "add bank chg: $35 ck#1104 1072.60 bounced/re-dep 10/23"
         },
         {
             "CustomerID": "BB003",
@@ -196,8 +196,8 @@
             "BalanceDue": 2081.86,
             "TotalDue": 2425.75,
             "TotalBalance": 2753.62,
-            "Suspend": "N",
-            "SuspendNote": ""
+            "Suspend": "Y",
+            "SuspendNote": "collect PD before releasing"
         },
         {
             "CustomerID": "BFAP01",
@@ -240,7 +240,7 @@
             "BalanceDue": 3632.32,
             "TotalDue": 5517.17,
             "TotalBalance": 9159.52,
-            "Suspend": "Y",
+            "Suspend": "N",
             "SuspendNote": "Collect past due before release"
         },
         {
@@ -251,8 +251,8 @@
             "BalanceDue": 3508.86,
             "TotalDue": 4375.860000000001,
             "TotalBalance": 5242.86,
-            "Suspend": "Y",
-            "SuspendNote": "Min Kim pay w/next order. Collect past due before release"
+            "Suspend": "N",
+            "SuspendNote": " "
         },
         {
             "CustomerID": "CAL04",
@@ -273,7 +273,7 @@
             "BalanceDue": 488.45,
             "TotalDue": 488.45,
             "TotalBalance": 3206.55,
-            "Suspend": "Y",
+            "Suspend": "N",
             "SuspendNote": "Collect past due before release"
         },
         {
@@ -409,6 +409,17 @@
             "SuspendNote": ""
         },
         {
+            "CustomerID": "EWC02",
+            "CompanyName": "Expert Window Coverings Inc",
+            "Contact": "Ali G. Zadeh",
+            "DepositDue": 0,
+            "BalanceDue": 0,
+            "TotalDue": 0,
+            "TotalBalance": 900.01,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
             "CustomerID": "EWICA",
             "CompanyName": "E WINDOWS & SHOWERDOORS",
             "Contact": "WARREN NGAI",
@@ -438,7 +449,7 @@
             "BalanceDue": -313.75,
             "TotalDue": 531.74,
             "TotalBalance": 1377.22,
-            "Suspend": "Y",
+            "Suspend": "N",
             "SuspendNote": "collect PD payment before release (Ray)"
         },
         {
@@ -471,8 +482,8 @@
             "BalanceDue": 0,
             "TotalDue": 10.1,
             "TotalBalance": 220.2,
-            "Suspend": "Y",
-            "SuspendNote": "collect PD payment before release"
+            "Suspend": "N",
+            "SuspendNote": ""
         },
         {
             "CustomerID": "HOU02",
@@ -505,7 +516,7 @@
             "TotalDue": 0,
             "TotalBalance": 380.27,
             "Suspend": "N",
-            "SuspendNote": ""
+            "SuspendNote": "collect PD payment before release"
         },
         {
             "CustomerID": "INT01",
@@ -537,8 +548,8 @@
             "BalanceDue": 0,
             "TotalDue": 35.8,
             "TotalBalance": 499.58,
-            "Suspend": "Y",
-            "SuspendNote": "collect PD payment before release "
+            "Suspend": "N",
+            "SuspendNote": "collect PD "
         },
         {
             "CustomerID": "KBW01",
@@ -559,8 +570,8 @@
             "BalanceDue": 6596.89,
             "TotalDue": 6596.89,
             "TotalBalance": 6596.89,
-            "Suspend": "Y",
-            "SuspendNote": "Collect past due before release "
+            "Suspend": "N",
+            "SuspendNote": "Collect past due before release, deposit required"
         },
         {
             "CustomerID": "LCBS1",
@@ -570,7 +581,7 @@
             "BalanceDue": 79.63,
             "TotalDue": 79.63,
             "TotalBalance": 631.57,
-            "Suspend": "Y",
+            "Suspend": "N",
             "SuspendNote": ""
         },
         {
@@ -714,7 +725,7 @@
             "TotalDue": 142.38,
             "TotalBalance": 1469.33,
             "Suspend": "N",
-            "SuspendNote": ""
+            "SuspendNote": "no new order, pls collect payment before releasing"
         },
         {
             "CustomerID": "PRS01",
@@ -725,7 +736,7 @@
             "TotalDue": 2145.77,
             "TotalBalance": 3853.99,
             "Suspend": "N",
-            "SuspendNote": "bounced ck, collect payment before release"
+            "SuspendNote": "collect payment before releasing"
         },
         {
             "CustomerID": "QTS01",
@@ -851,7 +862,7 @@
         {
             "CustomerID": "SBRFL3",
             "CompanyName": "SUNBURST SHUTTERS FLORIDA, INC.",
-            "Contact": "Nikki Scheffel",
+            "Contact": "Ember Hansen",
             "DepositDue": 0,
             "BalanceDue": 594.01,
             "TotalDue": 594.01,
@@ -1044,7 +1055,7 @@
             "TotalDue": 57780.26,
             "TotalBalance": 84279.73,
             "Suspend": "N",
-            "SuspendNote": ""
+            "SuspendNote": "late payment, over credit limit.  "
         },
         {
             "CustomerID": "SOC03",
@@ -1076,6 +1087,17 @@
             "BalanceDue": 847.5,
             "TotalDue": 947.51,
             "TotalBalance": 3772.51,
+            "Suspend": "N",
+            "SuspendNote": ""
+        },
+        {
+            "CustomerID": "STR01",
+            "CompanyName": "STR Shutters",
+            "Contact": "Steve Piattoni",
+            "DepositDue": 0,
+            "BalanceDue": 0,
+            "TotalDue": 0,
+            "TotalBalance": 305.71,
             "Suspend": "N",
             "SuspendNote": ""
         },
@@ -1120,8 +1142,19 @@
             "BalanceDue": 2463.97,
             "TotalDue": 2463.97,
             "TotalBalance": 2798.34,
-            "Suspend": "Y",
-            "SuspendNote": "Collect payment before release"
+            "Suspend": "N",
+            "SuspendNote": "Collect past due before release"
+        },
+        {
+            "CustomerID": "TFD01",
+            "CompanyName": "Three Fast Development Inc.",
+            "Contact": "Haifei Chen",
+            "DepositDue": 0,
+            "BalanceDue": 0,
+            "TotalDue": 0,
+            "TotalBalance": 1702.69,
+            "Suspend": "N",
+            "SuspendNote": ""
         },
         {
             "CustomerID": "THR01",
@@ -1187,7 +1220,7 @@
             "TotalDue": 502.25,
             "TotalBalance": 1646.49,
             "Suspend": "N",
-            "SuspendNote": "ck#3110 $359.01 bounced for alter ,re-dep on 8/14"
+            "SuspendNote": ""
         },
         {
             "CustomerID": "ULT01",
@@ -1197,8 +1230,8 @@
             "BalanceDue": 1619.48,
             "TotalDue": 1619.48,
             "TotalBalance": 3085.43,
-            "Suspend": "N",
-            "SuspendNote": ""
+            "Suspend": "Y",
+            "SuspendNote": "Collect past due before release"
         },
         {
             "CustomerID": "USC01",
@@ -1231,7 +1264,7 @@
             "TotalDue": 0,
             "TotalBalance": 2508.66,
             "Suspend": "N",
-            "SuspendNote": ""
+            "SuspendNote": "Jim out town, send check on 10/25"
         },
         {
             "CustomerID": "VER01",
@@ -1263,8 +1296,8 @@
             "BalanceDue": -42.29,
             "TotalDue": -42.29,
             "TotalBalance": -43.96,
-            "Suspend": "Y",
-            "SuspendNote": "Collect payment before release"
+            "Suspend": "N",
+            "SuspendNote": ""
         },
         {
             "CustomerID": "VIV01",
@@ -1297,7 +1330,7 @@
             "TotalDue": 367.87,
             "TotalBalance": 324.07,
             "Suspend": "Y",
-            "SuspendNote": "Collect past due payment before release "
+            "SuspendNote": "Collect past due before realeasing"
         }
     ]
 }
